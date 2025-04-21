@@ -4,6 +4,9 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 Performance.
 We would like to visualize various aspects of our pizza sales data to gain insights and
 understand key trends.
+## Dataset used
+- <a href= "https://github.com/Pawan6505/Data-Analysis-Dashboard/blob/main/Pizza_Sales_Dashboard.pbix">Dataset</a>
+
 ## KPI’s REQUIREMENT
 1.	Total Revenue
 2.	Average Order Value
