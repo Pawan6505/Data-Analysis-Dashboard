@@ -26,6 +26,11 @@ understand key trends.
 ## Tools used
 Microsoft Excel
 
+
+- Dashboard Interaction <a href= "https://github.com/Pawan6505/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-21%20215225.png">View Dashboard1</a>
+<a href= "https://github.com/Pawan6505/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-21%20215252.png">View Dashboard2</a>
+
+
 ## Process
 - Verify data for any missing values and anomalies and sort out the same.
 - Make sure data is consistent and clean with respect to data type, data format and values used.
