@@ -59,13 +59,13 @@ Microsoft Excel
 
 
 ## Final Conclusion
--Peak Business Periods:
+- Peak Business Periods:
 The business experiences the highest number of orders on weekends, especially Friday and Saturday evenings, indicating a strong demand during leisure and family time.
 The months of July and January see a significant spike in orders, suggesting these are key sales periods, potentially due to holidays or weather-related preferences.
--Top-Performing Segments:
+- Top-Performing Segments:
 The Classic category is the top performer, contributing the most to both sales revenue and total order volume. This indicates a strong customer preference for traditional pizza options.
 Large-sized pizzas are the most sold in terms of value, suggesting customers are willing to spend more for bigger portions.
--Best & Worst Sellers:
+- Best & Worst Sellers:
 The Thai Chicken Pizza generates the highest revenue, making it a premium offering.
 The Classic Deluxe Pizza leads in both quantity sold and total orders, highlighting it as a consistent favorite among customers.
 On the flip side, The Brie Carre is the poorest performer across all metrics (revenue, quantity, and orders), indicating low customer interest or satisfaction.
